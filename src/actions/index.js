@@ -68,7 +68,3 @@ export const fetchRentalById = (rentalId) => {
         payload: rental 
     }
 }
-
-const fetchRentalByIdSuccess = () => {
-
-}
